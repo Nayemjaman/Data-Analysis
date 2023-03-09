@@ -15,10 +15,10 @@ using Plotly’s Python graphing library and Bokeh visualization library. Not on
 
 ## Let's Start.............
 
-Remove the “Title” feature.
-Remove the rows where “Review Text” were missing.
-Clean “Review Text” column.
-Using TextBlob to calculate sentiment polarity which lies in the range of [-1,1] where 1 means positive sentiment and -1 means a negative sentiment.
+-Remove the “Title” feature. </br>
+-Remove the rows where “Review Text” were missing. </br>
+-Clean “Review Text” column. </br>
+-Using TextBlob to calculate sentiment polarity which lies in the range of [-1,1] where 1 means positive sentiment and -1 means a negative sentiment.</br> 
 
 # Key Features
 1. Univariate visualization with Plotly. 
