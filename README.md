@@ -8,7 +8,7 @@ Welcome to the Data-Analysis repository!
 </hr>
 
 
-#  Womens Clothing E-Commerce
+#   **[Womens Clothing E-Commerce](https://github.com/Nayemjaman/Data-Analysis/tree/main/Womens%20Clothing%20E-Commerce)**
 
 
 -Remove the “Title” feature. </br>
@@ -22,3 +22,9 @@ Welcome to the Data-Analysis repository!
 - The distribution of review ratings.
 - The distribution of reviewers age.
 - What do the departments tell about Sentiment polarity
+
+
+
+#   **[titanic data with ydata profiling](https://github.com/Nayemjaman/Data-Analysis/tree/main/titanic%20data%20with%20pandas%20profiling)**
+
+I chose to use ydata profiling on the Titanic data set because of the range of data types and missing information. ydata profiling, in my opinion, is especially fascinating when the data has not yet been cleansed and requires additional personalized changes. You need to know where to start and what to focus on to better steer your focus throughout these specific changes. This is where ydata profiling enters the picture.
